@@ -33,6 +33,7 @@
 
 ## Content Creation
 - [Canva](https://canva.com) - Create stunning visuals and graphics for social media.
+- [EasySociable](https://easysociable.com/?utm_source=awesome-social-media&utm_medium=directory&utm_campaign=backlinks) - AI carousel maker that runs inside your coding agent (Claude Code, Cursor, Codex).
 - [Adobe Spark](https://spark.adobe.com) - Easily create videos, graphics, and web pages for social media.
 - [Unsplash](https://unsplash.com) - A collection of high-quality, royalty-free images for your social media posts.
 - [Pexels](https://pexels.com) - Another great source for free stock photos and videos.
